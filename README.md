@@ -1,2 +1,2 @@
 # DISetterBased
-Proyecto de inyección de dependencias mediante setter
+Proyecto de inyección de dependencias mediante setter. Es proyecto maven.
